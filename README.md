@@ -1,4 +1,9 @@
 # musical_app
+Musical app contian:
+- artists can register as normal users and then register
+
+
+
 
 Front-end part is taken from Homespace theme by Colorlib and transformed into Laravel Blade and assets.
 Admin part is fully generated with QuickAdminPanel.
